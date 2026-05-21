@@ -1,3 +1,5 @@
+Paper: View it like a radiologist: Shifted windows for deep learning augmentation of CT images ([Link](https://api.nva.unit.no/publication/0198cc7caa5b-c4acef6c-3a99-4101-8638-5f1b4ce5a4aa))
+
 # Random windowing
 This repository contains an implementation of "Random windowing" – a novel preprocessing and augmentation scheme for CT images. Random windowing augments CT images during preprocessing, avoiding artifacts and leverage more of the data distribution compared to traditional augmentation schemes. 
 
